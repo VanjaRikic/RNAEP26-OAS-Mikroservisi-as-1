@@ -1,4 +1,5 @@
 name: CI
+#fajl koji ce da pokrene testove
 
 on:
   pull_request:
